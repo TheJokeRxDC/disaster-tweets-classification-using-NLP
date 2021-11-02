@@ -1,4 +1,14 @@
 # Disaster Tweets Classification Using Natural Language Processing (NLP)
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Last%20Commit-November 2021-brightgreen"> 
+  <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">
+</p>
+
 ![image](https://user-images.githubusercontent.com/23554465/139895715-45bf4b3a-f381-4820-b72c-5990812024fc.png)
 
 Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
